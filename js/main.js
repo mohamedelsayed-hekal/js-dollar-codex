@@ -1,3 +1,6 @@
+// ==========================================================
+//  Start header home Section js
+
 function convertDollar() {
     var dollar = document.getElementById("dollar").value;
     var result = document.getElementById("result");
@@ -15,3 +18,6 @@ function convertDollar() {
     }
     return false;
 }
+
+//  End header home Section js
+// ==========================================================
